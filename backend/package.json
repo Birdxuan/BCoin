@@ -1,0 +1,26 @@
+{
+  "name": "bcoin-backend",
+  "version": "1.0.0",
+  "description": "BCoin API Server - Crypto Investment Tracking",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "crypto",
+    "investment",
+    "api"
+  ],
+  "author": "Birdxuan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
