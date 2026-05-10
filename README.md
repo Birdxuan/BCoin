@@ -214,6 +214,51 @@ MIT
 
 ---
 
+## 🚀 现在就可以运行！(3步)
+
+### **第 1 步：克隆项目**
+
+bash
+
+```
+git clone https://github.com/Birdxuan/BCoin.git
+cd BCoin
+```
+
+### **第 2 步：启动后端** (终端1)
+
+bash
+
+```
+cd backend
+npm install
+npm start
+```
+
+✅ 看到这个说明成功：
+
+Code
+
+```
+🚀 BCoin API Server
+🏢 Running on http://localhost:3000
+✅ API Ready!
+```
+
+### **第 3 步：启动前端** (新建终端2)
+
+bash
+
+```
+cd frontend
+npm install
+npm run dev
+```
+
+✅ 然后打开浏览器访问：**[http://localhost:5173](http://localhost:5173/)**
+
+
+
 **联系方式**: Birdxuan  
 **项目主页**: https://github.com/Birdxuan/BCoin  
 **最后更新**: 2026-05-07
