@@ -214,6 +214,47 @@ MIT
 
 ---
 
+
+🚀 现在就可以运行！(3步快速开始)
+步骤1️⃣：克隆项目到本地
+bash
+# 电脑A (办公)
+git clone https://github.com/Birdxuan/BCoin.git
+cd BCoin
+步骤2️⃣：启动后端 (终端1)
+bash
+cd backend
+npm install
+npm start
+✅ 看到这个说明成功：
+
+Code
+🚀 BCoin API Server
+🏢 Running on http://localhost:3000
+✅ API Ready!
+步骤3️⃣：启动前端 (新建终端2)
+bash
+cd frontend
+npm install
+npm run dev
+✅ 看到这个说明成功：
+
+Code
+VITE v4.3.9 ready in 234 ms
+➜ Local: http://localhost:5173/
+🌐 打开浏览器访问
+http://localhost:5173
+
+你现在就可以：
+
+✅ 点击 "+100 USDT BTC" 快速添加
+✅ 手动输入交易信息
+✅ 实时看到折线图和饼图
+✅ 自动计算盈亏和收益率
+✅ 删除任何交易记录
+
+
+
 **联系方式**: Birdxuan  
 **项目主页**: https://github.com/Birdxuan/BCoin  
 **最后更新**: 2026-05-07
